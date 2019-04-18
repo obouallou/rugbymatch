@@ -32,7 +32,6 @@ A rugby teams is formed by 15 starting players and 7 substitutes. This means tha
  You can write a get function in the Player data class called isStarting() using the following syntax:
 ```kotlin
 val isStarting
-        get() = 
 ```
 *Note the inRange feature from Kotlin. See for more info [here](https://kotlinlang.org/docs/reference/ranges.html)*
 
